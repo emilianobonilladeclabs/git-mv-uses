@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitMvCommand", "GitMvCommand.csproj", "{35948EB6-08AC-463A-A4B4-16BA272B5EDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitMvCommand", "GitMvCommand/GitMvCommand.csproj", "{35948EB6-08AC-463A-A4B4-16BA272B5EDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
